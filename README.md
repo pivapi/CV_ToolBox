@@ -8,6 +8,7 @@
     - 加噪声
     - [cutout](https://arxiv.org/abs/1708.04552)
 - KITTI_2_VOC : 将KITTI数据形式转换为VOC形式
+    这个工具还是很实用，能够将KITTI数据集的格式转换为VOC的格式（即标注数据由txt格式转换为xml格式）
 - VOC_2_COCO : 讲VOC形式数据转换为COCO格式
 - Attention : feature map Attention && channel attention (SE)
 
